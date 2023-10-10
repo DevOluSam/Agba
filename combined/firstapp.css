@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(101, 66, 134);
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+p {
+    color: aquamarine;
+    border-color: black;
+    padding-top: 50px;
+}
+.bg{
+    background-color: black;
+}
